@@ -4,4 +4,4 @@ My objective for this project is to produce image classifiers which are able to 
 
 Please read the report to have complete understanding of the project
 
-THe notebooks for the VGG16 and AlexNet model are also provided.
+The notebooks for the VGG16 and AlexNet model are also provided.
